@@ -1,0 +1,21 @@
+/* Created by: Katie
+* Created on: April 2022
+* This CSS file defines the style for index.html
+* ICS2O-Unit3-01-HTML-AreaTrapezoid
+*/
+
+body {
+  background-color: mediumaquamarine;
+}
+
+h1 {
+  background-color: darkslategray;
+  color: lightsalmon;
+  padding: 6px;
+  border: 2px double lightsalmon;
+}
+
+p {
+  background-color: magenta;
+  color: darkslategray;
+}
